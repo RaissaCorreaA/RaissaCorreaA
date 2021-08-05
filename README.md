@@ -17,8 +17,8 @@ Graduated in biology and now a software development student.
 
 #### 📫 Get in touch
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/raissacorrea25/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raissacorreaa@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissacorrea25/)](https://www.linkedin.com/in/raissacorrea25/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissacorreaa@gmail.com)](mailto:raissacorreaa@gmail.com)
 
 
 
