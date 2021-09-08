@@ -4,7 +4,7 @@
 
 Graduated in biology and now a software development student.
 
-🐛 I just started my developer journey, and i'm looking forward to the changes it bring.
+🐛 I just started my developer journey, and i'm looking forward to the changes it brings.
 
 #### 💻 Coding/learning with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
